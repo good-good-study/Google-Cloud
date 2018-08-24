@@ -39,3 +39,5 @@
 谷歌云防火墙规则添加 （位置在谷歌云 VPC网络-防火墙）
 点击添加新规则，然后按照一下这个设置好。这样 SSR 设置任何端口都可以使用。并且后续不需要再来防火墙规则做设置了。
 
+![image](https://github.com/good-good-study/Google-Cloud/blob/master/%E9%98%B2%E7%81%AB%E5%A2%99%E8%A7%84%E5%88%99%E9%85%8D%E7%BD%AE.png)
+
