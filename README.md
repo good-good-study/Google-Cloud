@@ -2,21 +2,13 @@
 
 谷歌VM实例系统里面 ，选择使用debian9
 
-1：sudo -i
+1: sudo -i
 
 (最前面显示root@xxxx)
 
-2：wget -N --no-check-certificate https://raw.githubusercontent.com/FunctionClub/YankeeBBR/master/bbr.sh && bash bbr.sh install
+2: bash <(curl -s -L https://git.io/v2ray.sh)
 
-3：bash bbr.sh start
-
-4：wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocksR.sh && chmod +x shadowsocksR.sh
-
-5：./shadowsocksR.sh
-
-输入shadowsocks 密码
-
-输入端口号
+剩下的按提示输入一路畅通...
 
 其他一路回车（也可自行选择混淆 协议）
 
